@@ -6,8 +6,8 @@ Machine Learning Internship tasks submitted at Arc Technologies - Month 1  by Ta
 This repository contains Machine Learning internship tasks submitted at Arc Technologies.
 
 ## Contents
- Month 1 - Machine Learning Tasks (Tanzeela_ML_Month1.zip)
- Month 2 - Machine Learning Tasks (Tanzeela_ML_Month1.zip)
+ Month 1 - Machine Learning Tasks (arc technlogoiestask.zip)
+ Month 2 - Machine Learning Tasks (Tanzeela_ML_Month2.zip)
  
  
 
