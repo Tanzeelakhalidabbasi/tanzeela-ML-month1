@@ -1,4 +1,4 @@
-# tanzeela-ML-month1
+# tanzeela-ML tasks
 Machine Learning Internship tasks submitted at Arc Technologies - Month 1  by Tanzeela Khalid Abbasi
 # Tanzeela - Machine Learning Internship
 
