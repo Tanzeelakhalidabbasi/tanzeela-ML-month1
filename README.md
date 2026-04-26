@@ -7,14 +7,17 @@ This repository contains Machine Learning internship tasks submitted at Arc Tech
 
 ## Contents
  Month 1 - Machine Learning Tasks (Tanzeela_ML_Month1.zip)
+ Month 2 - Machine Learning Tasks (Tanzeela_ML_Month1.zip)
+ 
+ 
 
 
 ## About
-- 👩‍💻 Intern: Tanzeela
+- 👩‍💻 Intern: Tanzeela Khalid Abbasi
 - 🏢 Company: Arc Technologies
 - 📚 Field: Machine Learning
-- 📅 Duration: 2 Months
+
 
 ## Submission
-- ✅ Month 1 - Submitted
+- ✅ Month 1&2 - Submitted
 
